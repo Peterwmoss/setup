@@ -4,8 +4,8 @@ This page prefers installation using package managers.
 
 For different versions than what is provided by your package manager, see [nodejs.org](https://nodejs.org/en).
 
-* [Linux](#Linux)
-* [MacOS](#MacOS)
+* [Linux](#linux-source)
+* [MacOS](#macos-source)
 * [Windows](#Windows)
 
 ## Linux ([source](https://nodejs.org/en/download/package-manager/))
