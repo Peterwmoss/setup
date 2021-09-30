@@ -6,7 +6,7 @@ For different versions than what is provided by your package manager, see [nodej
 
 * [Linux](#linux-source)
 * [MacOS](#macos-source)
-* [Windows](#windows)
+* [Windows](#windows-source)
 
 ## Linux ([source](https://nodejs.org/en/download/package-manager/))
 
@@ -88,7 +88,7 @@ brew install node
 curl "https://nodejs.org/dist/latest/node-${VERSION:-$(wget -qO- https://nodejs.org/dist/latest/ | sed -nE 's|.*>node-(.*)\.pkg</a>.*|\1|p')}.pkg" > "$HOME/Downloads/node-latest.pkg" && sudo installer -store -pkg "$HOME/Downloads/node-latest.pkg" -target "/"
 ```
 
-## Windows
+## Windows ([source](https://nodejs.org/en/download/package-manager/#windows-1))
 
 ### chocolatey
 
