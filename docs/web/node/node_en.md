@@ -6,7 +6,7 @@ For different versions than what is provided by your package manager, see [nodej
 
 * [Linux](#linux-source)
 * [MacOS](#macos-source)
-* [Windows](#Windows)
+* [Windows](#windows)
 
 ## Linux ([source](https://nodejs.org/en/download/package-manager/))
 
