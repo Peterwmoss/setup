@@ -1,0 +1,8 @@
+npm
+distros
+sudo
+json
+pacman
+dnf
+yum
+msi
