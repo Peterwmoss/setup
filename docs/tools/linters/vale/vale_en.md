@@ -26,7 +26,7 @@ There's an [AUR package](https://aur.archlinux.org/packages/vale) for arch based
 
 To install using `yay`: `yay -S vale`
 
-#### Void linux
+#### Void Linux
 
 `xbps-install vale`
 
@@ -61,7 +61,7 @@ If unsure what path is included you can try printing `$PATH` with the following 
 ## Useful links
 
 * [Official documentation](https://docs.errata.ai/vale/about/)
-* [Github page](https://github.com/errata-ai/vale)
+* [GitHub page](https://github.com/errata-ai/vale)
 
 ## Usage
 
