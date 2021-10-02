@@ -24,6 +24,8 @@ You'll need super user (root) access to install vale.
 
 There's an [AUR package](https://aur.archlinux.org/packages/vale) for arch based distributions
 
+To install using `yay`: `yay -S vale`
+
 #### Void linux
 
 `xbps-install vale`
