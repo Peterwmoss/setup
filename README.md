@@ -13,6 +13,4 @@ It's a new project and I'm currently low on time, so all contributions are welco
 
 ## Contributing
 
-If you have additional info, a problem you ran into or anything you think would fit the repository, feel free to create an issue or a pull request.
-
-Translations to other languages and grammar checks are very welcome as well!
+See [CONTRIBUTING.md](CONTRIBUTING.md)
