@@ -17,7 +17,7 @@ A browser cannot process `.scss` or `.sass` files, which means that you'll have 
 
 ### Prerequisites
 
-  * [node.js](docs/web/node/node_en.md) should be installed on the machine (and `npm` should be working)
+  * [node.js](/docs/web/node/node_en.md) should be installed on the machine (and `npm` should be working)
 
 ### Project only
 
