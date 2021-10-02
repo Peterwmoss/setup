@@ -26,6 +26,8 @@ Before running the below command ensure that you have a node project setup (look
 * `npm install --save-dev sass`
   * Shorthand: `npm i -D sass`
 
+To use `sass` in a project like this, make sure to call the `sass` command in your build script and not from the commandline directly.
+
 ### Globally
 
 To use anywhere, ensure that globally installed npm packages are added to your path. See [here](docs/web/node/node_en.md#unknown-command-installed-package-command) if you can't run `sass` after running the command below.

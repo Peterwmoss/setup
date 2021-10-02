@@ -213,4 +213,4 @@ Once you have this, remove the `/lib/node_modules` part of the path and replace 
 
 This is the path you'll want to add to your `$PATH` environment variable.
 
-To do this see: [Adding to $PATH](docs/system/path/path_en.md#adding-to-path)
+To do this see: [Adding to $PATH](/docs/system/path/path_en.md#adding-to-path)
