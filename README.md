@@ -11,6 +11,12 @@ It's a new project and I'm currently low on time, so all contributions are welco
 
 ## Current guides
 
+### Tools
+
+#### Linters
+
+* [vale](docs/tools/linters/vale/vale_en.md)
+
 ### Web
 
 * [node.js / npm](docs/web/node/node_en.md)
